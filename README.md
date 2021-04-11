@@ -2,9 +2,7 @@
 
 ###  _Sitio web creado utilizando nodejs (responsive)_
 
-* _preview:_ 
-
-https://gravity-falls-page.herokuapp.com/
+* _preview:_ https://gravity-falls-page.herokuapp.com/
 
 ## modulos utilizados 🔧
 
