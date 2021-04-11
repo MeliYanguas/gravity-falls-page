@@ -1,8 +1,8 @@
 # Gravity Falls 🌌
 
-_Sitio web creado utilizando nodejs (responsive)_
+###  _Sitio web creado utilizando nodejs (responsive)_
 
-### _preview:_ 
+_preview:_ 
 https://gravity-falls-page.herokuapp.com/
 
 ## modulos utilizados 🔧
@@ -13,6 +13,6 @@ morgan
 nodemon
 
 ## estilizado utilizando: 🖌️
-*bootstrap
-*css3 
-*grid 
+* bootstrap
+* css3 
+* grid 
