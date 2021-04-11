@@ -6,13 +6,10 @@
 
 ## modulos utilizados 🔧
 
-framework: express
-
-motor de plantilla ejs 
-
-morgan
-
-nodemon
+* framework: express
+* motor de plantilla ejs 
+* morgan
+* nodemon
 
 ## estilizado utilizando: 🖌️
 * bootstrap
